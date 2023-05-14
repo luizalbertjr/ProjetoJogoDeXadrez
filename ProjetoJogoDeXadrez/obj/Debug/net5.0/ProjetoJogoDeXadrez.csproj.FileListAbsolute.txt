@@ -1,0 +1,16 @@
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\bin\Debug\net5.0\ProjetoJogoDeXadrez.exe
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\bin\Debug\net5.0\ProjetoJogoDeXadrez.deps.json
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\bin\Debug\net5.0\ProjetoJogoDeXadrez.runtimeconfig.json
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\bin\Debug\net5.0\ProjetoJogoDeXadrez.runtimeconfig.dev.json
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\bin\Debug\net5.0\ProjetoJogoDeXadrez.dll
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\bin\Debug\net5.0\ProjetoJogoDeXadrez.pdb
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.csproj.AssemblyReference.cache
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.AssemblyInfoInputs.cache
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.AssemblyInfo.cs
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.csproj.CoreCompileInputs.cache
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.dll
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\refint\ProjetoJogoDeXadrez.dll
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.pdb
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ProjetoJogoDeXadrez.genruntimeconfig.cache
+D:\Projetos MVS\ProjetoJogoDeXadrez\ProjetoJogoDeXadrez\obj\Debug\net5.0\ref\ProjetoJogoDeXadrez.dll
