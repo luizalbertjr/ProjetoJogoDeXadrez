@@ -4,6 +4,9 @@ namespace tabuleiro
 {
     class Cor
     {
-       Preta;
+       Black, Branca;
+
+
+
     }
 }
