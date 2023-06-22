@@ -32,7 +32,7 @@ namespace ProjetoJogoDeXadrez
 
         public static void imprimirPeca(Peca peca)
         {
-            if ( peca.cor == Cor.Branca)
+            if (peca.cor == Cor.branca)
             {
                 Console.Write(peca);
             }
