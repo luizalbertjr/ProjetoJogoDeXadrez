@@ -20,10 +20,19 @@ namespace ProjetoJogoDeXadrez
                     Console.WriteLine();
                     Console.Write("Origem: ");
                     Posicao origem = Tela.lerPosicaoXadrez().toPosicao ();
+
+                    bool[,] posicaoPossivel = partida.tab.peca(origem).movimentosPossiveis();
+
+                    Console.Clear();
+                    Tela.imprimirTabuleiro(partida.tab, posicaoPossivel);
+
+                    Console.WriteLine();
                     Console.Write("Destino: ");
                     Posicao destino = Tela.lerPosicaoXadrez ().toPosicao ();
+
+                    partida.executaMovimento (origem, destino);
                 }
-                Tela.imprimirTabuleiro(partida.tab);
+                
             }
             catch (TabuleiroException e)
             {
