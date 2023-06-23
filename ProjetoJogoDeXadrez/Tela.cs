@@ -16,6 +16,10 @@ namespace ProjetoJogoDeXadrez
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
             Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
+            if (partida.xeque)
+            {
+                Console.WriteLine("XEQUE!");
+            }
         }
 
         // imprimir peças capturadas.
@@ -40,9 +44,9 @@ namespace ProjetoJogoDeXadrez
             Console.Write("[");
             foreach (Peca x in conjunto)
             {
-                Console.WriteLine(x + " ");
+                Console.Write(x + " ");
             }
-            Console.WriteLine("]");
+            Console.Write("]");
         }
         public static void imprimirTabuleiro(Tabuleiro tab)
         {
