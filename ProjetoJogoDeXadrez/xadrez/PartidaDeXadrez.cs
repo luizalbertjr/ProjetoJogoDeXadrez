@@ -236,19 +236,43 @@ namespace xadrez
 
         public void colocarPecas()
         {
-            colocarNovapeca('c', 1, new Torre(tab, Cor.Branca));
-            colocarNovapeca('c', 2, new Torre(tab, Cor.Branca));
-            colocarNovapeca('d', 2, new Torre(tab, Cor.Branca));
-            colocarNovapeca('e', 2, new Torre(tab, Cor.Branca));
-            colocarNovapeca('e', 1, new Torre(tab, Cor.Branca));
-            colocarNovapeca('d', 1, new Rei(tab, Cor.Branca));
+            // Brancas
+            colocarNovapeca('a', 1, new Torre(tab, Cor.Branca));
+            colocarNovapeca('b', 1, new Cavalo(tab, Cor.Branca));
+            colocarNovapeca('c', 1, new Bispo(tab, Cor.Branca));
+            colocarNovapeca('d', 1, new Dama(tab, Cor.Branca));
+            colocarNovapeca('e', 1, new Rei(tab, Cor.Branca));
+            colocarNovapeca('f', 1, new Bispo(tab, Cor.Branca));
+            colocarNovapeca('g', 1, new Cavalo(tab, Cor.Branca));
+            colocarNovapeca('h', 1, new Torre(tab, Cor.Branca));
 
-            colocarNovapeca('c', 7, new Torre(tab, Cor.Preta));
-            colocarNovapeca('c', 8, new Torre(tab, Cor.Preta));
-            colocarNovapeca('d', 7, new Torre(tab, Cor.Preta));
-            colocarNovapeca('e', 7, new Torre(tab, Cor.Preta));
-            colocarNovapeca('e', 8, new Torre(tab, Cor.Preta));
-            colocarNovapeca('d', 8, new Rei(tab, Cor.Preta));
+            colocarNovapeca('a', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('b', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('c', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('d', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('e', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('f', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('g', 2, new Peao(tab, Cor.Branca));
+            colocarNovapeca('h', 2, new Peao(tab, Cor.Branca));
+
+            //pretas
+            colocarNovapeca('a', 8, new Torre(tab, Cor.Preta));
+            colocarNovapeca('b', 8, new Cavalo(tab, Cor.Preta));
+            colocarNovapeca('c', 8, new Bispo(tab, Cor.Preta));
+            colocarNovapeca('d', 8, new Dama(tab, Cor.Preta));
+            colocarNovapeca('e', 8, new Rei(tab, Cor.Preta));
+            colocarNovapeca('f', 8, new Bispo(tab, Cor.Preta));
+            colocarNovapeca('g', 8, new Cavalo(tab, Cor.Preta));
+            colocarNovapeca('h', 8, new Torre(tab, Cor.Preta));
+
+            colocarNovapeca('a', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('b', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('c', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('d', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('e', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('f', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('g', 7, new Peao(tab, Cor.Preta));
+            colocarNovapeca('h', 7, new Peao(tab, Cor.Preta));
 
 
 
